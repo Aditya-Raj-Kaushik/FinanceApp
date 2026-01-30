@@ -6,6 +6,7 @@ namespace FinanceApp.Controllers
 {
     public class HomeController : Controller
     {
+        //test comment
         public IActionResult Index()
         {
             return View();
