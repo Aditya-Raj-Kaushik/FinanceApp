@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ad995424\\source\\repos\\FinanceApp\\FinanceApp\\FinanceApp.csproj",
+      "projectUniqueName": "C:\\Users\\ad995424\\Projects\\FinanceApp\\FinanceApp\\FinanceApp.csproj",
       "projectName": "FinanceApp",
-      "projectPath": "C:\\Users\\ad995424\\source\\repos\\FinanceApp\\FinanceApp\\FinanceApp.csproj",
+      "projectPath": "C:\\Users\\ad995424\\Projects\\FinanceApp\\FinanceApp\\FinanceApp.csproj",
       "packagesPath": "C:\\Users\\ad995424\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ad995424\\source\\repos\\FinanceApp\\FinanceApp\\obj\\",
+      "outputPath": "C:\\Users\\ad995424\\Projects\\FinanceApp\\FinanceApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
